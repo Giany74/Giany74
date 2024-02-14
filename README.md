@@ -1,4 +1,4 @@
-![Design an Development](https://media.licdn.com/dms/image/D4D16AQFAX2TOgiXGGg/profile-displaybackgroundimage-shrink_350_1400/0/1684860598670?e=1710979200&v=beta&t=b7XesW9gANGtDcLjqp5TyX0rDeK1Md7iQTQ5kDc3yKM)
+![Design an Development]([https://media.licdn.com/dms/image/D4D16AQFAX2TOgiXGGg/profile-displaybackgroundimage-shrink_350_1400/0/1684860598670?e=1710979200&v=beta&t=b7XesW9gANGtDcLjqp5TyX0rDeK1Md7iQTQ5kDc3yKM](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ca153191502647.65ccb449abf5b.png))
 
 ## Gianluca Pettenon
 Full-stack web developer Motion graphics Video editing Graphic design Brand identity
